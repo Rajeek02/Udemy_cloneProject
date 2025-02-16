@@ -11,6 +11,5 @@ A simple Udemy clone built using HTML & CSS, designed to replicate the look and 
 📌 Technologies Used
 HTML5
 CSS3 (Flexbox & Grid)
-Link: https://github.com/yourusername/udemy-clone.git
-
+Link: https://rajeek02.github.io/Udemy_cloneProject/
 
